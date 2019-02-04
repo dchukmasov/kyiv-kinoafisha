@@ -7,6 +7,3 @@ env
 .idea/*
 __pycache__
 .vscode
-
-# private files
-config.py
