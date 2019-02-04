@@ -1,0 +1,12 @@
+# Virtual Environment is ignored
+venv
+env
+
+# Temporary Files
+*.pyc
+.idea/*
+__pycache__
+.vscode
+
+# private files
+config.py
