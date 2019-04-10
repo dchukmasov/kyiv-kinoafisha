@@ -1,4 +1,4 @@
-TELEGRAM BOT
+TELEGRAM BOT @kinoafisha_kyiv_bot
 by D.C. -- Nov 2018
 *******************
 
